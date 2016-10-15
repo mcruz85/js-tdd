@@ -1,8 +1,11 @@
-const a = 3;
 
-b = 1;
+const a = 13;
 
-const c = 'safdkb kbagfkbs kbksbgdk bakgbksb gk;';
+const b = 10;
 
-console.log(a, b, c);
 
+function sum() {
+  return a + b;
+}
+
+sum();
